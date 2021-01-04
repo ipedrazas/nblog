@@ -1,4 +1,4 @@
-baseURL = "http://ivan.wip.ac/"
+baseURL = "https://ivan.wip.ac/"
 languageCode = "en-us"
 title = "The Wip Blog"
 theme = "ananke"
