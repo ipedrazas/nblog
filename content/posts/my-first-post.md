@@ -1,7 +1,7 @@
 ---
 title: "About learning"
 date: 2021-01-04T10:51:19Z
-draft: true
+draft: false
 ---
 
 I guess that, like me, many others will be glad to leave 2020 behind, and like me, many of you will have a (long) list of new year
